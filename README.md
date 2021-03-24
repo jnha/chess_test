@@ -1,2 +1,2 @@
 # chess_test
-Experimental chess engines
+Experimental chess engine tests in Python
